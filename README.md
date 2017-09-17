@@ -1,16 +1,31 @@
-# Intercambiozz
+# Repositorio para la app Intercambiozz
+ 
+---
 
-Ejecutar Plataforma Node.JS
+### Estructura del repositorio
+```
+.
+├── intercambiozz           	   # Plataforma PhoneGap
+├── intercambioapp         		   # Plataforma web Node 
+├── IntercambiozzPlantilla         # Diseño de la web  
+```
 
-cd intercambioapp/  
-npm install  
-npm start  
+### Comandos para ejecutar la plataforma node:
+```
+En un terminal:
 
-Ejecutar PhoneGap
+$ cd intercambioapp/  
+$ npm install  
+$ npm start o node bin/www
+```
 
+### Comandos para Ejecutar PhoneGap
+```
 Android
 ......
 
 
 iOS
 .....
+
+```
