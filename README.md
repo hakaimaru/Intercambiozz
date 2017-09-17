@@ -2,9 +2,9 @@
 
 Ejecutar Plataforma Node.JS
 
-cd intercambioapp/
-npm install
-npm start
+cd intercambioapp/  
+npm install  
+npm start  
 
 Ejecutar PhoneGap
 
